@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class MergeSort {
     public static void main(String[] args) {
         int[] v = {6,30,2,9,8};
         int[] w = {10,6,30,2,9};
