@@ -1,6 +1,6 @@
-package Alg1;
+package DivideEtImpera;
 
-public class Java {
+public class Alg1 {
     public class Main {
         public static void main(String[] args) {
             int[] v = {5,30,2,9,8};
