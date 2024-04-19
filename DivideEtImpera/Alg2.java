@@ -1,10 +1,13 @@
 package DivideEtImpera;
-
+//Compitino del 2-05-2012 | AP1 11-12
 public class Alg2 {
     public static void main(String[] args) {
         int[] a = { 10, 20, 10, 10, 30, 10, 10, 10, 30, 20, 10, 10 };
+        int[] b = { 0, 1, 1, 1, 0, 1, 1, 0, 0, 1 };
         int v = 10;
+        int v2 = 1;
         System.out.println(func(a, v, 0, a.length));
+        System.out.println(func(b, v2, 0, b.length));
     }
 
 
